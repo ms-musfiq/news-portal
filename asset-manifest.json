@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/news-portal/static/css/main.81aa4754.chunk.css",
+    "main.js": "/news-portal/static/js/main.f22bf99e.chunk.js",
+    "main.js.map": "/news-portal/static/js/main.f22bf99e.chunk.js.map",
+    "runtime-main.js": "/news-portal/static/js/runtime-main.308f52fe.js",
+    "runtime-main.js.map": "/news-portal/static/js/runtime-main.308f52fe.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/news-portal/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3b237f73.chunk.js": "/news-portal/static/js/2.3b237f73.chunk.js",
+    "static/js/2.3b237f73.chunk.js.map": "/news-portal/static/js/2.3b237f73.chunk.js.map",
+    "static/js/3.a886fba7.chunk.js": "/news-portal/static/js/3.a886fba7.chunk.js",
+    "static/js/3.a886fba7.chunk.js.map": "/news-portal/static/js/3.a886fba7.chunk.js.map",
+    "index.html": "/news-portal/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/news-portal/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.81aa4754.chunk.css.map": "/news-portal/static/css/main.81aa4754.chunk.css.map",
+    "static/js/2.3b237f73.chunk.js.LICENSE.txt": "/news-portal/static/js/2.3b237f73.chunk.js.LICENSE.txt",
+    "static/media/Khandarpar Union.20157cfd.jpg": "/news-portal/static/media/Khandarpar Union.20157cfd.jpg",
+    "static/media/facebook.4f037d96.png": "/news-portal/static/media/facebook.4f037d96.png",
+    "static/media/iconfinder_social-whatsapp-circle_4017334.b411946c.png": "/news-portal/static/media/iconfinder_social-whatsapp-circle_4017334.b411946c.png",
+    "static/media/my pic.7dff35e6.jpg": "/news-portal/static/media/my pic.7dff35e6.jpg",
+    "static/media/twitter.28b4dce4.png": "/news-portal/static/media/twitter.28b4dce4.png",
+    "static/media/web-union-1.1689ff96.jpg": "/news-portal/static/media/web-union-1.1689ff96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.308f52fe.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3b237f73.chunk.js",
+    "static/css/main.81aa4754.chunk.css",
+    "static/js/main.f22bf99e.chunk.js"
+  ]
+}
